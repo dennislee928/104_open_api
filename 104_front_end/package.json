@@ -12,7 +12,7 @@
     "axios": "^1.8.3",
     "next": "15.2.4",
     "react": "19.0.0-rc-69d4b800-20241021",
-    "react-dom": "19.0.0-rc-69d4b800-20241021"
+    "react-dom": "19.1.1"
   },
   "devDependencies": {
     "@types/node": "^20",
